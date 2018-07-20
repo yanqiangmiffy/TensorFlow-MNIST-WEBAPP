@@ -16,3 +16,7 @@ mnist
 
 - 第二步执行 main.py
 打开 http://127.0.0.1:5000/  即可
+
+
+训练好的模型  链接：https://share.weiyun.com/5dpg6bw 密码：s555br
+
